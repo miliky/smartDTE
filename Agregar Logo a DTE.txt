@@ -1,0 +1,1 @@
+Agregar imagen PNG en el directorio (. \_internal\images\logo.png)
